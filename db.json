@@ -1,0 +1,52 @@
+{
+  "Customers": [
+    {
+      "id": "45e2",
+      "pan": "JTVPS3373E",
+      "fullName": "Sonu Sahu",
+      "email": "sonusahu3715@gmail.com",
+      "mobile": "7692013715",
+      "addresses": [
+        {
+          "addressLine1": "Nayagaon, Diatrict Shivpuri -473585",
+          "addressLine2": "Khaniyadhana",
+          "postcode": "473585",
+          "state": "Maharashtra",
+          "city": "Pune"
+        }
+      ]
+    },
+    {
+      "id": "7907",
+      "pan": "ABCDE1234A",
+      "fullName": "gopal",
+      "email": "gopal@gmail.com",
+      "mobile": "7692013345",
+      "addresses": [
+        {
+          "addressLine1": "Nayagaon, Diatrict Shivpuri -473585",
+          "addressLine2": "Khaniyadhana",
+          "postcode": "473585",
+          "state": "Maharashtra",
+          "city": "Pune"
+        }
+      ]
+    },
+    {
+      "id": "69fb",
+      "pan": "JTVPW3373W",
+      "fullName": "Upendra Kumar",
+      "email": "upendra@gmail.com",
+      "mobile": "7692013732",
+      "addresses": [
+        {
+          "addressLine1": "bhopal",
+          "addressLine2": "bhopal",
+          "postcode": "462008",
+          "state": "Maharashtra",
+          "city": "Pune"
+        }
+      ]
+    }
+  ]
+}
